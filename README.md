@@ -27,3 +27,5 @@ php artisan migrate --seed
 
 Execute o comando para iniciar o servidor de desenvolvimento:
 php artisan serve
+
+OBSERVAÇÃO: Cada repositório tem seu Dockerfile, então fique a vontade caso queira usar o docker para subir a aplicação.
